@@ -1,4 +1,4 @@
-.. image:: image1.png
+.. image:: /image1.png
    :width: 3.52083in
    :height: 1.20833in
 
