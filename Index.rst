@@ -1,4 +1,4 @@
-.. image:: main/image1.png
+.. image:: image1.png
    :width: 3.52083in
    :height: 1.20833in
 
@@ -65,7 +65,7 @@ E-Learning devrait ressembler à ceci:*
 descomprima el archivo en una carpeta separada. La carpeta de E-Learning
 debería verse así:*
 
-.. image:: vertopal_c0795f89ff024c11b682b41ef236612b/media/image2.png
+.. image:: /image2.png
    :width: 6.5in
    :height: 6.11458in
 
@@ -95,7 +95,7 @@ your E-Learning folder**
 *Vaya a "File> Open ...> Browse" y abra el archivo llamado "start.swf"
 en su carpeta de E-Learning*
 
-.. image:: vertopal_c0795f89ff024c11b682b41ef236612b/media/image3.png
+.. image:: /image3.png
    :width: 6.5in
    :height: 3.20972in
 
