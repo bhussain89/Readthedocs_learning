@@ -1,4 +1,4 @@
-.. image:: vertopal_c0795f89ff024c11b682b41ef236612b/media/image1.png
+.. image:: main/image1.png
    :width: 3.52083in
    :height: 1.20833in
 
